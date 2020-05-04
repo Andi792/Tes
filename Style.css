@@ -1,0 +1,45 @@
+body{
+    background:#f1fcfc;
+    }
+p { color: #ff5200;
+}
+ul {
+    font-family: cursive;
+    color : #342ead;
+    }
+#garis1{
+    overflow: visible;
+    border : none;
+    border-top: double;
+    color: #dd2c00;
+    size : "20";}
+#garis1:after{
+    content : '✸✸✸';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+    background:#f1fcfc;
+}
+img {
+    width: 120px;
+      height: 150px;
+      border-radius: 50%;}
+.Orange{
+    background : white;
+    font-family: cursive;
+    color: #ff5200;}
+.Pink{
+background:#efa8e4;
+font-family:monospace;
+}
+h1 {
+color: #0779e4;}
+h2 {
+color : #ff5722}
+hr {
+
+ border: double;
+    color: #95389e;
+    text-align: center;
+
+}
