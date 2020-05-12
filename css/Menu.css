@@ -1,0 +1,19 @@
+body {
+  background: #f0f0f0;
+  text-align: center;
+}
+.Header{
+  color: #f0f0f0;
+  padding: 7.5% 2.5%;
+  background-color: #52575d;
+}
+.New{
+  color: #f0f0f0;
+  background-color: #52575d;
+  padding-bottom: 3%;
+}
+.New-Image {
+  width: 250px;
+  height: 250px;
+  border-radius: 100%
+}

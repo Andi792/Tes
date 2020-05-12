@@ -1,0 +1,134 @@
+body {
+  padding-top: 40px;
+}
+.background{
+  position: absolute;
+  position: fixed;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+}
+.Menu{
+
+  text-align: center;
+  padding-top: 2%;
+
+}
+
+.title-word {
+  font-style: italic;
+  margin: auto 15% auto;
+  padding-bottom: 50px;
+  font-weight:bolder;
+  font-size: 61px;
+  font-family: 'Lobster', cursive;
+  color: red;
+}
+.Joyfull{
+}
+#wpdevar_comment_1{
+  background: white;
+  font-color:#red;
+}
+.Sub{
+  font-size: 35px;
+  padding: 40px 0px 40px 0px;
+
+  font-weight: bolder;
+}
+.Desc-box{
+  position: relative;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding-bottom: 5%;
+}
+.Description-title {
+
+  color: #43d8c9 ;
+  font-size: 25px;
+  font-family: 'Bree Serif', serif;
+  font-weight: bolder;
+  font-size: 35px;
+  padding: 40px 15% 10px 15%;
+}
+.Description {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+  margin: auto 10%;
+}
+.body-section{
+  margin-bottom: 5%;
+}
+
+.Testimonial-section{
+  padding: 10% auto;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+}
+.carousel-title{
+  padding-top: 3%;
+  color: white;
+}
+.carousel{
+    color: white;
+  ;
+}
+.Testimonial-caption{
+  margin:auto 15% 5%;
+  font-size: 20px;
+}
+.Testimonial-img{
+  padding-top: 5%;
+  padding-bottom: 3%;
+  text-align: center;
+  border-radius: 100%;
+  width: 15%;
+  height: 15%;
+}
+.Footer{
+  color: white;
+  margin: 10% auto auto auto;
+    background: rgba(0, 0, 0, 0.9);
+  text-align: center;
+}
+.CONTACT{
+  padding-top: 3%;
+}
+.CONTACT-title{
+  font-size:20px;
+  margin-bottom: 3%;
+}
+.Contact-info{
+  font-size: 15px;
+}
+.copyright {
+  font-size: 13px;
+}
+@media (max-width: 900px) {
+  .Description-title{
+    font-size: 40px;
+  }
+  .Description{
+
+  font-size: 25px;
+  }
+
+  .Testimonial-img{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    border-radius: 100%;
+    width: 25%;
+    height: 25%;
+
+}
+.CONTACT-title{
+  font-size: 15px;
+}
+.Contact-info{
+  font-size: 1opx;
+}
+.copyright {
+  font-size: 8px;
+}
